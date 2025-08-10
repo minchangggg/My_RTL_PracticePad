@@ -1,4 +1,4 @@
-# Morse-Code-Generator
+# Thiết kế bộ mã Morse [Morse-Code-Generator]
 ------------------------------------------------
 #### [Video 4] Morse Code Generator - Tạo tài liệu đặc tả kỹ thuật
 > https://www.youtube.com/watch?v=o-N-JDqpiCs&t=1s
@@ -19,6 +19,8 @@
 
 #### [Video 8] Tâm sự về khó khăn thử thách trong ngành thiết kế vi mạch số
 > https://www.youtube.com/watch?v=LUOI3aYb0J4
+
+## Hướng Dẫn Học Thiết Kế Số
 #### [Video 9] Hướng Dẫn Học Thiết Kế Số part 1
 > https://www.youtube.com/watch?v=lbM6XZZU3TE
 #### [Video 10] Hướng Dẫn Học Thiết Kế Số part 2
