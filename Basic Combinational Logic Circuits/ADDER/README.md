@@ -18,7 +18,7 @@ Using 'define and Full Adder to create an adder 2-bit, 4-bit, 8-bit, 16-bit
 
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/5abb92ea-ed26-4090-b752-fb8f64b3f2ba">
 
-# Prefix Adder
+# Prefix Adder / Carry Lookahead Adder
 > https://ictc.edu.vn/nguyen-ly-va-thiet-ke-cua-prefix-adder/
 >
 > https://ictc.edu.vn/can-ban-ve-giai-thuat-tinh-prefix-song-song/
