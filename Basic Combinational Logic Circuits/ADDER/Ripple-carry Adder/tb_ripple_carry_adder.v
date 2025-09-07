@@ -1,4 +1,4 @@
-module tb_n_bit_adder;
+module tb_ripple_carry_adder;
   reg  [WIDTH-1:0] net_test_a, net_test_b;
   reg              net_test_cin;
   wire [WIDTH-1:0] net_test_sum;
