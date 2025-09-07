@@ -67,3 +67,20 @@ https://github.com/Abhishek-Sharma182005/108-RTL-Projects/tree/main/Project%2049
 
 #### Column-Bias Multiplier
 https://github.com/Abhishek-Sharma182005/108-RTL-Projects/tree/main/Project%2050%20Column-Bias%20Multiplier
+
+#### Multipliers in FPGA
+https://github.com/Abhishek-Sharma182005/108-RTL-Projects/tree/main/Project%2051%20Multipliers%20in%20FPGA
+
+#### DIGIT SERIAL MULTIPLIER
+https://github.com/Abhishek-Sharma182005/108-RTL-Projects/tree/main/Project%2052%20DIGIT%20SERIAL%20MULTIPLIER
+
+#### Substrate Based Multiplier
+https://github.com/Abhishek-Sharma182005/108-RTL-Projects/tree/main/Project%2053%20Substrate%20Based%20Multiplier
+
+
+
+
+
+
+
+
