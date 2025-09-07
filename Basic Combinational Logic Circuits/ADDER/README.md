@@ -14,6 +14,10 @@
 # Ripple-carry Adder
 Using 'define and Full Adder to create an adder 2-bit, 4-bit, 8-bit, 16-bit 
 
+> 16-bit Ripple-carry Adder
+
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/5abb92ea-ed26-4090-b752-fb8f64b3f2ba">
+
 # Prefix Adder
 > https://ictc.edu.vn/nguyen-ly-va-thiet-ke-cua-prefix-adder/
 >
