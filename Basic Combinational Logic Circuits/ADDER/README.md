@@ -15,5 +15,7 @@
 Using 'define and Full Adder to create an adder 2-bit, 4-bit, 8-bit, 16-bit 
 
 # Prefix Adder
-
+> https://ictc.edu.vn/nguyen-ly-va-thiet-ke-cua-prefix-adder/
+>
+> https://ictc.edu.vn/can-ban-ve-giai-thuat-tinh-prefix-song-song/
 -------------
