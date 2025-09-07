@@ -2,8 +2,9 @@
 
 ## Logic gates 
 - AND, OR, NOT, NAND, NOR, XOR, XNOR.
-- Ví dụ: Y = A AND B.
-## Adder | Done
+## Adder 
+> Done
+
 - Simple Adder
   + Half Adder
   + Full Adder
@@ -16,4 +17,5 @@
 - Encoder (BCD encoder).
 - Decoder: (3-to-8 decoder).
 ## Comparator
-## Simple ALU
+## Simple ALU 
+> Done
