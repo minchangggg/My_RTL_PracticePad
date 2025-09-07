@@ -3,6 +3,6 @@
 
 ### |Day 0 - Basic Combinational Logic Circuits
 ### |Day 1 - Basic Sequential Logic Circuits
-### |Day 2 - STOP WATCH
+### |Day 2 - Stop Watch [BCD & Led 7 segment display]
 
 ## _____________________________________
