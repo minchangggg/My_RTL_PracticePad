@@ -3,13 +3,11 @@
 ## Logic gates 
 - AND, OR, NOT, NAND, NOR, XOR, XNOR.
 ## Adder 
+### Simple Adder [Half Adder + Full Adder]
 > Done
-
-- Simple Adder
-  + Half Adder
-  + Full Adder
-- Ripple-carry Adder
-- Prefix Adder
+### Ripple-carry Adder
+> Done
+### Prefix Adder / Carry Lookahead Adder
 ## Subtractor
 ## Multiplexer (MUX)
 ## Demultiplexer (DEMUX)
