@@ -20,17 +20,19 @@
 // This parameterized module constructs an N-bit ripple carry adder using N instances of the full_adder module. 
 // It takes two N-bit inputs (a and b), a carry-in (cin), and produces an N-bit sum and a final carry-out (cout).
 // ============================================================
-module ripple_carry_adder (a, b, cin, sum, cout);
-  input [WIDTH-1:0] a, b; // Input: Two N-bit binary numbers (a and b)
-  input cin;		          // Input: Carry-in bit
-  output [WIDTH-1:0] sum; // Output: N-bit sum of a and b with carry-in
-  output cout;		        // Output: Final carry-out bit
+module ripple_carry_adder (
+  input logic [WIDTH-1:0]  a, b, // Input: Two N-bit binary numbers (a and b)
+  input logic              cin,  // Input: Carry-in bit
+  output logic [WIDTH-1:0] sum,  // Output: N-bit sum of a and b with carry-in
+  output logic             cout  // Output: Final carry-out bit
+);
+  
+  logic [WIDTH:0] c; // Internal carry wires
+  
+  assign c[0] = cin; // Initial carry-in
 
-  wire [WIDTH:0] c; 	    // Internal carry wires
-  assign c[0] = cin;   	  // Initial carry-in
-
-  genvar i;
   // Generate N full adder instances for each bit
+  genvar i;
   generate
     for (i = 0; i < WIDTH ; i = i + 1) begin : gen_fa
       full_adder fa (
@@ -51,9 +53,11 @@ endmodule
 // This module implements a full adder 
 // taking three 1-bit bin inputs (a, b, cin) and producing a 1-bit sum and cout.
 // ================================
-module full_adder (a, b, cin, sum, cout);
-  input a,b,cin;
-  output sum,cout;
-
+module full_adder (
+  input logic  a, b, 
+  input logic  cin,
+  output logic sum, 
+  output logic cout
+);
   assign {cout, sum} = {((a & b) | (b & cin) | (a & cin)), (a ^ b ^ cin)};
 endmodule
