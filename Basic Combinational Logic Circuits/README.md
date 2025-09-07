@@ -17,3 +17,4 @@
     + Decoder: ít input → nhiều output (ví dụ 3-to-8 decoder).
   - Comparator:
     + So sánh 2 số nhị phân (>, =, <).
+  - ALU
