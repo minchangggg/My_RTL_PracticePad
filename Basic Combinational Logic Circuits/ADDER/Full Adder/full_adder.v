@@ -1,7 +1,14 @@
 // ================================
-// Full Adder Module 2 (using 2 Half Adders)
-// This module implements a full adder using two half adder instances,
-// taking three 1-bit bin inputs (a, b, cin) and producing a 1-bit sum and cout.
+// Module: full_adder
+// Description: 
+//   This module implements a full adder using two half adder instances,
+//   taking three 1-bit bin inputs (a, b, cin) and producing a 1-bit sum and cout.
+// Inputs:
+//   - a, b : input bit
+//   - cin  : Carry-in bit
+// Outputs:
+//   - sum  : Sum output (1-bit)
+//   - cout : Carry-out output (1-bit)
 // ================================
 module full_adder(a, b, cin, sum, cout);
   input wire a, b, cin;   // Input: a (First input bit), b (Second input bit), cin (Carry-in input)
@@ -30,3 +37,31 @@ module half_adder (A, B, S, C);
   // Logic for sum and carry
   assign {C, S} = {A & B, A ^ B};
 endmodule
+
+/*
+// ==============================================
+// Module: full_adder
+// Description: 
+//   A 1-bit Full Adder circuit that computes the 
+//   binary sum of three 1-bit inputs (a, b, cin).
+// Inputs:
+//   - a, b : input bit
+//   - cin  : Carry-in bit
+// Outputs:
+//   - sum  : Sum output (1-bit)
+//   - cout : Carry-out output (1-bit)
+// Logic:
+//   sum  = a ^ b ^ cin
+//   cout = (a & b) | (b & cin) | (a & cin)
+// ==============================================
+module full_adder (a, b, cin, sum, cout);
+  input a, b, cin;      // Input: a (First input bit), b (Second input bit), cin (Carry-in input)
+  output sum, cout;  // Output: sum (Final sum), cout (Final carry-out)
+
+  // Logic for sum and carry
+  // assign {cout, sum} = a + b + cin;
+  // assign {cout, sum} = {((a & b) | (b & cin) | (a & cin)), (a ^ b ^ cin)};
+  assign sum = a ^ b ^ cin;
+  assign cout = (a & b) | (b & cin) | (cin & a) ;
+endmodule
+*/
