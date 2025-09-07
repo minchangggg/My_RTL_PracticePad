@@ -1,3 +1,4 @@
+> https://www.chipverify.com/verilog/verilog-combinational-logic-assign
 
 - Các loại mạch tổ hợp cơ bản:
   - Logic gates (cổng logic):
