@@ -1,0 +1,6 @@
+- SR Latch (Set-Reset Latch)
+- D Latch (Data Latch)
+- JK Flip-Flop
+- T Flip-Flop
+- Registers (thanh ghi)
+- Counters (bộ đếm)
