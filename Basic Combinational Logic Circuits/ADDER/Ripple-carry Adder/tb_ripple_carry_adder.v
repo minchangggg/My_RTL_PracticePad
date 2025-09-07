@@ -1,10 +1,10 @@
 module tb_ripple_carry_adder;
-  reg  [WIDTH-1:0] net_test_a, net_test_b;
-  reg              net_test_cin;
-  wire [WIDTH-1:0] net_test_sum;
-  wire             net_test_cout;
+  logic [WIDTH-1:0] net_test_a, net_test_b;
+  logic             net_test_cin;
+  logic [WIDTH-1:0] net_test_sum;
+  logic             net_test_cout;
 
-  n_bit_adder uut (
+  ripple_carry_adder uut (
     .a(net_test_a),
     .b(net_test_b),
     .cin(net_test_cin),
