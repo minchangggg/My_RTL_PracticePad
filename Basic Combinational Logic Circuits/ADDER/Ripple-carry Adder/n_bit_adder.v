@@ -16,11 +16,11 @@
 `endif
 
 // ============================================================
-// n_bit_adder Module
+// ripple_carry_adder Module
 // This parameterized module constructs an N-bit ripple carry adder using N instances of the full_adder module. 
 // It takes two N-bit inputs (a and b), a carry-in (cin), and produces an N-bit sum and a final carry-out (cout).
 // ============================================================
-module n_bit_adder (a, b, cin, sum, cout);
+module ripple_carry_adder (a, b, cin, sum, cout);
   input [WIDTH-1:0] a, b; // Input: Two N-bit binary numbers (a and b)
   input cin;		          // Input: Carry-in bit
   output [WIDTH-1:0] sum; // Output: N-bit sum of a and b with carry-in
@@ -51,7 +51,7 @@ endmodule
 // This module implements a full adder 
 // taking three 1-bit bin inputs (a, b, cin) and producing a 1-bit sum and cout.
 // ================================
-module full_adder (a,b,cin, sum,cout);
+module full_adder (a, b, cin, sum, cout);
   input a,b,cin;
   output sum,cout;
 
