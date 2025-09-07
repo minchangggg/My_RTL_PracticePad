@@ -11,7 +11,9 @@
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/d2e9d0a9-5afd-40eb-961b-48e015e2ecb8">
 
-# N-bit Ripple-carry Adder
+# Ripple-carry Adder
 Using 'define and Full Adder to create an adder 2-bit, 4-bit, 8-bit, 16-bit 
+
+# Prefix Adder
 
 -------------
