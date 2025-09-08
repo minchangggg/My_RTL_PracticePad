@@ -1,9 +1,7 @@
 > https://www.chipverify.com/verilog/verilog-combinational-logic-assign
 
-## Logic gates 
-- AND, OR, NOT, NAND, NOR, XOR, XNOR.
-
-https://ictc.edu.vn/gioi-thieu-cac-cong-logic-bang-bo-ghep-kenh/
+## Logic gates [AND, OR, NOT, NAND, NOR, XOR, XNOR]
+Design Logic Gate from MUX: https://ictc.edu.vn/gioi-thieu-cac-cong-logic-bang-bo-ghep-kenh/
 ## Adder 
 ### Simple Adder [Half Adder + Full Adder]
 > Done
