@@ -8,6 +8,9 @@ Design Logic Gate from MUX: https://ictc.edu.vn/gioi-thieu-cac-cong-logic-bang-b
 ### Ripple-carry Adder
 > Done
 ### Prefix Adder / Carry Lookahead Adder
+Nguyên lý và Thiết kế của Prefix adder: https://ictc.edu.vn/nguyen-ly-va-thiet-ke-cua-prefix-adder/
+
+Giải thuật tính Prefix song song: https://ictc.edu.vn/can-ban-ve-giai-thuat-tinh-prefix-song-song/
 ## Subtractor
 ## Multiplexer (MUX)
 ## Demultiplexer (DEMUX)
