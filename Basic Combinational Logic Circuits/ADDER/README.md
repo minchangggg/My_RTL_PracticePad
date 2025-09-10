@@ -1,4 +1,7 @@
 # Simple Adder
+> https://www.geeksforgeeks.org/digital-logic/half-adder-in-digital-logic/
+>
+> https://www.geeksforgeeks.org/digital-logic/full-adder-in-digital-logic/
 ## Half Adder
 <img width="370" alt="image" src="https://github.com/user-attachments/assets/e6eeaa10-26bc-4422-bceb-28d5a6c4d181">
 
