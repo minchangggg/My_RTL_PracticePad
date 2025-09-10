@@ -17,5 +17,9 @@ Giải thuật tính Prefix song song: https://ictc.edu.vn/can-ban-ve-giai-thuat
 - Encoder (BCD encoder).
 - Decoder: (3-to-8 decoder).
 ## Comparator
+## Code Converters
+### Binary to/from Gray Code
+https://www.geeksforgeeks.org/digital-logic/code-converters-binary-to-from-gray-code/
+
 ## Simple ALU 
 > Done
