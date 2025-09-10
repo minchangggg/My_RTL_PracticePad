@@ -22,6 +22,16 @@ https://www.geeksforgeeks.org/digital-logic/conversion-of-j-k-flip-flop-into-d-f
 - D Latch (Data Latch)
 - JK Flip-Flop
 - T Flip-Flop
-- Registers (thanh ghi)
-- Counters (bộ đếm)
-  > https://nguyenquanicd.blogspot.com/2017/08/verilog-rtl-code-mo-ta-cac-loai-bo-em.html
+
+## Registers (thanh ghi)
+> https://www.geeksforgeeks.org/computer-organization-architecture/general-purpose-registers/
+> 
+> https://www.geeksforgeeks.org/digital-logic/shift-registers-in-digital-logic/
+## Counters (bộ đếm)
+> https://www.geeksforgeeks.org/digital-logic/counters-in-digital-logic/
+>
+> https://www.geeksforgeeks.org/digital-logic/ripple-counter-in-digital-logic/
+>
+> https://www.geeksforgeeks.org/digital-logic/ring-counter-in-digital-logic/
+> 
+> https://nguyenquanicd.blogspot.com/2017/08/verilog-rtl-code-mo-ta-cac-loai-bo-em.html
