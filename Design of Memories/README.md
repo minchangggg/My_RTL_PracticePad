@@ -5,3 +5,11 @@
 > https://trongtranrvc.blogspot.com/2019/09/socdesign-tim-hieu-ve-thiet-ke-memory.html
 >
 > https://www.chipverify.com/verilog/verilog-single-port-ram#google_vignette
+>
+> https://www.geeksforgeeks.org/computer-science-fundamentals/computer-memory/
+>
+> https://www.geeksforgeeks.org/computer-science-fundamentals/random-access-memory-ram/
+>
+> https://www.geeksforgeeks.org/computer-organization-architecture/read-only-memory-rom/
+
+
