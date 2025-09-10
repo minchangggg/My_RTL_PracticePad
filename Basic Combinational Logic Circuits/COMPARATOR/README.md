@@ -1,3 +1,5 @@
+https://www.geeksforgeeks.org/digital-logic/magnitude-comparator-in-digital-logic/
+
 #### Hardware Recursion
 - Khái Niệm Căn Bản Về Đệ Quy Trong Thiết Kế RTL (Phần 1)
 > https://ictc.edu.vn/can-ban-ve-de-quy-trong-thiet-ke-phan-cung/
