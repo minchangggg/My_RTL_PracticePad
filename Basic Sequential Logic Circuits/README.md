@@ -6,6 +6,17 @@ https://www.geeksforgeeks.org/digital-logic/latches-in-digital-logic/
 
 https://www.geeksforgeeks.org/digital-logic/flip-flop-types-their-conversion-and-applications/
 
+----------
+
+https://www.geeksforgeeks.org/digital-logic/conversion-of-s-r-flip-flop-into-d-flip-flop/
+
+https://www.geeksforgeeks.org/digital-logic/conversion-of-s-r-flip-flop-into-t-flip-flop/
+
+https://www.geeksforgeeks.org/digital-logic/conversion-of-j-k-flip-flop-into-t-flip-flop/
+
+https://www.geeksforgeeks.org/digital-logic/conversion-of-j-k-flip-flop-into-d-flip-flop/
+
+----------
 
 - SR Latch (Set-Reset Latch)
 - D Latch (Data Latch)
