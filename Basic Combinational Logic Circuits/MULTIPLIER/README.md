@@ -1,8 +1,4 @@
 > https://www.geeksforgeeks.org/digital-logic/sequential-binary-multiplier/
->
-> https://www.geeksforgeeks.org/digital-logic/multiplexers-in-digital-logic/
->
-> https://www.geeksforgeeks.org/node-js/demultiplexer-in-nodejs/
 
 #### Carry Save Array Multiplier
 https://github.com/Abhishek-Sharma182005/108-RTL-Projects/tree/main/Project%2028%20Carry%20Save%20Array%20Multiplier
