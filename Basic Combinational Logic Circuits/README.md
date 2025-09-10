@@ -12,8 +12,7 @@ Nguyên lý và Thiết kế của Prefix adder: https://ictc.edu.vn/nguyen-ly-v
 
 Giải thuật tính Prefix song song: https://ictc.edu.vn/can-ban-ve-giai-thuat-tinh-prefix-song-song/
 ## Subtractor
-## Multiplexer (MUX)
-## Demultiplexer (DEMUX)
+## Multiplexer (MUX) / Demultiplexer (DEMUX)
 ## Encoder / Decoder
 - Encoder (BCD encoder).
 - Decoder: (3-to-8 decoder).
