@@ -11,3 +11,13 @@ Builds on Part 1 by adding 7-segment LED decoding, while keeping the same FSM an
 
 ## EDA Playground Simulation
 BCD_stopwatch_test: https://edaplayground.com/x/7VGY
+
+## Quartus
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/ca3c7773-af58-4889-95a9-a0adf074ba55" />
+
+<img width="1916" height="974" alt="image" src="https://github.com/user-attachments/assets/27dadc9d-834c-4297-82b3-50b6ff904615" />
+
+<img width="1908" height="977" alt="image" src="https://github.com/user-attachments/assets/07389f3d-f279-423f-ad12-5a5cc886ffe9" />
+
+
+
