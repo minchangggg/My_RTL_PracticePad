@@ -1,0 +1,8 @@
+
+State Machine - |led7seg_stopwatch|bcd_stopwatch:core|cur_state
+Name cur_state.STOP_STATE cur_state.LAP_STATE cur_state.RUN_STATE cur_state.IDLE_STATE cur_state.CLEAR_STATE 
+cur_state.IDLE_STATE 0 0 0 0 0 
+cur_state.RUN_STATE 0 0 1 1 0 
+cur_state.LAP_STATE 0 1 0 1 0 
+cur_state.STOP_STATE 1 0 0 1 0 
+cur_state.CLEAR_STATE 0 0 0 1 1 
