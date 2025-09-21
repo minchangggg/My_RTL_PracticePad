@@ -63,3 +63,6 @@ Includes the full FSM and counting logic, with outputs shown directly in BCD dec
 <img width="1914" height="1015" alt="image" src="https://github.com/user-attachments/assets/27fd3f06-af4f-4aeb-966a-5653694ec193" />
 
 <img width="1916" height="1014" alt="image" src="https://github.com/user-attachments/assets/12e15af9-cfe0-46e3-aa81-46ff21a1ab17" />
+
+<img width="1817" height="821" alt="image" src="https://github.com/user-attachments/assets/36d00efd-1867-4c29-9bab-afe5bca27b5b" />
+
