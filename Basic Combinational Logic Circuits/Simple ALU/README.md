@@ -1,3 +1,5 @@
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/817ab2be-9312-4622-9c11-dd4c1040ffaa">
+
 ## Code 1
 https://edaplayground.com/x/Trcu
 ## Code 2
